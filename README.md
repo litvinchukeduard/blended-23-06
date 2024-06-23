@@ -22,3 +22,27 @@ git config --global user.name "Your Name"
 def hello():
     print("Hello!")
 ```
+
+## Git delete history commands
+
+# git reset
+
+https://www.atlassian.com/git/tutorials/undoing-changes/git-reset#:~:text=The%20git%20reset%20HEAD~2,be%20used%20on%20unpublished%20commits.
+
+# git revert
+
+https://git-scm.com/docs/git-revert
+
+## PEP 8
+
+https://peps.python.org/pep-0008/
+
+## VSCode extensions
+
+1) Python/Pylance https://marketplace.visualstudio.com/items?itemName=ms-python.python
+
+2) Pylint https://marketplace.visualstudio.com/items?itemName=ms-python.pylint
+
+## Python typing
+
+https://realpython.com/python-type-checking/
