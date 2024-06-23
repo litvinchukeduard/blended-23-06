@@ -1,2 +1,3 @@
 print("Hello, world!")
-if:
+if 2 > 3:
+  print("IMPOSSIBLE!")
