@@ -12,4 +12,6 @@ def print_hello_and_goodbye():
   hello()
   print_goodbye()
 
+hello()
+print_goodbye()
 print_hello_and_goodbye()
